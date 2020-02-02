@@ -1,0 +1,7 @@
+To read file ---->>
+R = open('file_name','r') = read normal file
+R = open('file_name','rb') = read binary file means not character and numbers
+
+To write file ----->>
+W = open('file_name','w')
+W = open('file_name','wb') = write binary file means not character and numbers
