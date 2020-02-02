@@ -14,3 +14,7 @@ print(vals[1])
 for i in range(5):
     print(vals[i])
 
+for i in range(5):
+    print(vals[i])
+
+
